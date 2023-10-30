@@ -1,0 +1,113 @@
+@import url("https://fonts.googleapis.com/css?family=Rubik:400,400i,500,600,700,800display=swap");
+/*-------------------*/
+/*      CSS EXTRA    */
+/*-------------------*/
+
+/*Carrossel*/
+#serie-area {
+    background-color: black;
+}
+#carouselExampleCaptions{
+    padding-bottom: 20px;
+    padding-top: 20px;
+    padding-left: 15%;
+    padding-right: 15%;
+    background: linear-gradient(110deg, black, red);
+}
+/*fim*/
+
+.formulario {
+    padding:87px 434px 33px 424px;
+    background-color: aliceblue;
+}
+.containerbiggy {
+    background-color: black;
+}
+.slide1 {
+    color: rgb(3, 1, 1);
+    font-size: 50px;
+    text-decoration: none;
+    background-color: aliceblue;
+
+}
+.titleres {
+    text-align: center;
+}
+.slide1-1{
+    color: rgb(0, 0, 0);
+    background-color: white;
+    font-size: 30px;
+    font-style: italic;   
+}
+.containeeeeeeer {
+    background-color: black;
+}
+.card {
+    padding-top: 100px;
+}
+
+.todas-as-series{
+    text-align: center;
+    padding-bottom: 15px;
+    color: blue;
+    font-weight: bold;
+    padding-top: 15px
+}
+.card-body {
+    text-align: center;
+}
+#serie-area1{
+    padding-top: 20px;
+    padding-bottom: 40px;
+}
+.card-text{
+    text-align: left;
+    text-decoration: none;    
+}
+#carouselExampleSlidesOnly{
+    padding-bottom: 20px;
+    padding-top: 20px;
+    padding-left: 15%;
+    padding-right: 15%;
+    background: linear-gradient(110deg, black, red);
+}
+.titlehouse{
+    color:white;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.sinopse{
+    text-align: justify;
+    font-size: 20px;
+    padding-left: 15%;
+    padding-right: 15%; 
+}
+.trailer{
+    padding-bottom: 20px;
+    padding-top: 20px;
+    padding-left: 15%;
+    padding-right: 15%;
+    text-align: center;
+}
+.card-title{
+    padding-top: 10PX;
+    padding-bottom: 10px;
+    text-align: left;
+    cursor: pointer;
+    background:linear-gradient(110deg, rgb(241, 238, 238), rgb(173, 171, 171));
+    
+}
+
+.title1 {
+    color: white;
+    text-align: center;
+}
+
+.youtube {
+    width:535.111px;
+    height:300px;
+    top:0px;
+    left:0px;
+}
