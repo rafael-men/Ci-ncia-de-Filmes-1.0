@@ -59,6 +59,13 @@
     padding-top: 20px;
     padding-bottom: 40px;
 }
+.w-100.btn.btn-primary.btn-lg {
+    border-radius: 250px;
+    box-shadow: black;
+}
+.footer-area.bg-black.pd-top-95 {
+    margin: 30px -100%;
+}
 .card-text{
     text-align: left;
     text-decoration: none;    
