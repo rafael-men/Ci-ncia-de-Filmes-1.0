@@ -1,0 +1,90 @@
+#nonvisible {
+    color: rgb(255,255,255); 
+}
+#carrossel {    
+    padding: 0;
+}
+.carousel-item {
+    transition: transform 0.5s ease, opacity .5s ease-out;
+}
+.descrição {
+    text-align: justify;
+    font-size: 20px;
+    padding-left: 15%;
+    padding-right: 15%;
+    
+}
+
+#topodalista {
+    margin-bottom: 0; background-color: black; color: blue; border-bottom: 5px solid black;
+    text-align: center;
+}
+    
+
+.baixodalista {
+        margin-bottom: 0; background-color: black; color: blue; border-bottom: 15px solid black; border: 15px solid black; text-align: center;} 
+        
+#manymovies{border:solid 12px black!important; padding: 0; margin:0;} 
+
+#fundo { background-color: black; border:40px solid black;  }
+
+#nomefilme {background-color: black; color:white; text-align: center; margin:0;} 
+
+#nome { padding: 0; border: 5px solid black }
+
+#imagemprimaria  {display: block; margin:0 auto; border: 10px solid black; 
+            
+} #afreira{padding:0; border:solid 5px black; background-color: black;}
+    
+#sinopse1 {
+    text-align: center; margin-bottom: 0; background-color: black; color:white;
+    
+}
+
+#frame {
+            padding: 0; background-color: black;}
+
+#iframe {
+                display: block; margin: 0 auto;
+            }
+
+.youtube{
+                width: 535.111px; 
+                height: 300px; 
+                top: 0px; 
+                left: 0px
+               
+            }            
+
+#carouselExampleCaptions{
+    padding-bottom: 20px;
+    padding-top: 20px;
+    padding-left: 15%;
+    padding-right: 15%;
+    background: linear-gradient(110deg, black, red);
+}
+.card-title{
+    padding-top: 10PX;
+    padding-bottom: 10px;
+    text-align: left;
+    cursor: pointer;
+    background:linear-gradient(110deg, rgb(241, 238, 238), rgb(173, 171, 171));
+    
+}
+#sinopse1{
+    text-align: justify;
+    font-size: 20px;
+    padding-left: 15%;
+    padding-right: 15%; 
+    color: white;
+}
+#afreira{
+    padding-bottom: 20px;
+    padding-top: 20px;
+    padding-left: 15%;
+    padding-right: 15%;    
+}
+.serie-area1{
+    padding-top: 20px;
+    padding-bottom: 40px;
+}
