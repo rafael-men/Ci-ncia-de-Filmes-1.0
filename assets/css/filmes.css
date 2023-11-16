@@ -88,3 +88,16 @@
     padding-top: 20px;
     padding-bottom: 40px;
 }
+/* teste*/
+.cad {
+    position: relative;
+    overflow: hidden;
+}
+
+  .cad img {
+    transition: transform 0.3s ease-in-out;
+}
+
+  .cad:hover img {
+    transform: scale(1.1);
+}
